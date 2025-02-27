@@ -21,5 +21,14 @@
     <ClCompile Include="数组_二分查找.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="数组_动态数组.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="链表_链表定义.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="数组_移除元素.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

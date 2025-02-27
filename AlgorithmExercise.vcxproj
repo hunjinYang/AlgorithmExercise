@@ -141,6 +141,9 @@
   <ItemGroup>
     <ClCompile Include="数组_测试.cpp" />
     <ClCompile Include="数组_二分查找.cpp" />
+    <ClCompile Include="数组_动态数组.cpp" />
+    <ClCompile Include="数组_移除元素.cpp" />
+    <ClCompile Include="链表_链表定义.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
