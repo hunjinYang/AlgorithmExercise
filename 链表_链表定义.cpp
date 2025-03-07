@@ -1,8 +1,8 @@
-#include<iostream>
-#include<vector>
-using namespace std;
-
-//单链表的定义及实现
+//#include<iostream>
+//#include<vector>
+//using namespace std;
+//
+////单链表的定义及实现
 //class ListNode {
 //public:
 //	int val;
@@ -54,4 +54,4 @@ using namespace std;
 //	ListNode* list = createdLinkedList(arr);
 //	printLinkedList(list);
 //}
-
+//

@@ -143,6 +143,9 @@
     <ClCompile Include="数组_二分查找.cpp" />
     <ClCompile Include="数组_动态数组.cpp" />
     <ClCompile Include="数组_移除元素.cpp" />
+    <ClCompile Include="数组_螺旋矩阵.cpp" />
+    <ClCompile Include="数组_长度最小的子数组.cpp" />
+    <ClCompile Include="链表_移除链表元素.cpp" />
     <ClCompile Include="链表_链表定义.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

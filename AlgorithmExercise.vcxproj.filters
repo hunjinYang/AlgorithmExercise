@@ -30,5 +30,14 @@
     <ClCompile Include="数组_移除元素.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="数组_长度最小的子数组.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="数组_螺旋矩阵.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="链表_移除链表元素.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
